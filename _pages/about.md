@@ -22,7 +22,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
+<div style="margin-top: 30px;"></div>
 I am a [doctoral candidate](https://www.prf.cuni.cz/detail-cloveka/100031443795) at the Charles University Faculty of Law, Constitutional Law Department supervised by [Prof. Jan Wintr](https://www.prf.cuni.cz/detail-cloveka/128) and an [MPhil student](https://www.law.ox.ac.uk/people/gor-vartazaryan) in socio-legal research at University of Oxford, supervised by [Prof. Agnieszka Kubal](https://www.law.ox.ac.uk/people/agnieszka-kubal). My current research focuses on dissenting opinions at the European Court of the Human Rights and the Czech Constitutional Court.
 
 Feel welcome to explore this webpage if you are interested in my work!
