@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.law.ox.ac.uk/people/gor-vartazaryan'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.law.ox.ac.uk/people/gor-vartazaryan'>
 
 profile:
   align: right
