@@ -8,7 +8,7 @@ nav_order: 4
 
 ## Media Coverage
 
-## Pre-Electoral coalitions and the "STAČILO!" case in 2025 general elections
+### Pre-Electoral coalitions and the "STAČILO!" case in 2025 General elections
 
 [1] **[Echo24 – Constitutional lawyers on electoral coalitions and STAČILO!](https://www.echo24.cz/a/HFQ3j/ustava-jan-kysela-pravo-pravnik-soud-zaloba-stacilo-spd-nekoalice-skryte-koalice-pseudokoalice-volby-snemovny)**
 Mentioned as an expert commentator on electoral coalitions and constitutional aspects of the 2025 parliamentary elections.
@@ -40,7 +40,7 @@ Research cited in the discussion of the STAČILO! coalition dispute.
 [10] **[Česká justice – Hidden coalitions and electoral law](https://www.ceska-justice.cz/2025/09/okate-obchazeni-zakona-nebo-30-let-tolerovana-praxe-koalice/)**
 Mentioned as an expert on electoral law.
 
-### Other media appearances
+### About Oxford Studies
 
 [1] **[What Is It Like to Do a Research MPhil in Socio-Legal Studies at Oxford?](https://czexpats.org/en/clanek/what-is-it-like-to-do-a-research-mphil-in-socio-legal-studies-like-at-oxford/)**  
 Interview for Czexpats discussing the MPhil in Socio-Legal Research at the University of Oxford.
