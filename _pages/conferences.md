@@ -1,5 +1,4 @@
 ---
-
 layout: page
 permalink: /conferences/
 title: conference presentations
