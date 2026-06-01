@@ -33,3 +33,11 @@ At some point, I made the questionable decision to start studying [**law**](http
 The decisive turning point came when I returned to the questions that had fascinated me since high school: institutions, democracy, constitutionalism, and the behaviour of political and judicial actors. This path ultimately led me to doctoral studies at **Charles University** and later to an **MPhil in Socio-Legal Research at the University of Oxford**. Looking back, academia was perhaps not a destination I planned from the beginning. Nevertheless, it became the place where my interests in law, politics, empirical research, and public affairs naturally converged.
 
 ![Oxford](/assets/img/oxford.jpg){: style="width: 40%;" }
+
+---
+
+## Teaching 🎓
+
+Add
+
+![Oxford](/assets/img/oxford.jpg){: style="width: 40%;" }
