@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## ongoing projects
+## Ongoing projects
 
 ---
 
@@ -56,7 +56,7 @@ nav_order: 4
 
 ---
 
-## principal investigator projects
+## Principal investigator projects
 
 #### Between the Legislative and Executive Powers: The Constitutional Right of the President of the Czech Republic to Participate in Meetings of Parliament and Government (Article 64 of the Constitution)
 
@@ -106,7 +106,7 @@ nav_order: 4
 
 ---
 
-## previous projects
+## Previous projects
 
 #### Mutual Interaction of the Self-Perspective and the Other-Perspective in Political Decision-Making: A Perspective of Quantum Social Science
 
