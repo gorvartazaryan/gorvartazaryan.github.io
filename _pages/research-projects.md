@@ -18,7 +18,7 @@ nav_order: 4
 **Role:** Research Assistant
 **Period:** 2025–2027
 
-[**Project website:** ](https://www.prf.cuni.cz/node/13024)
+[**Project website** ](https://www.prf.cuni.cz/node/13024)
 
 **Related outputs:**
 
@@ -33,7 +33,7 @@ nav_order: 4
 **Role:** Research Assistant
 **Period:** 2025–2027
 
-[**Project website:** ](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2025&typ=N&pageSize=200)
+[**Project website** ](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2025&typ=N&pageSize=200)
 
 **Related outputs:**
 
@@ -48,7 +48,7 @@ nav_order: 4
 **Role:** Research Assistant
 **Period:** 2025
 
-[**Project website:**](https://www.prf.cuni.cz/aktuality/dalsi-uspechy-v-soutezi-ga-cr)
+[**Project website**](https://www.prf.cuni.cz/aktuality/dalsi-uspechy-v-soutezi-ga-cr)
 
 **Related outputs:**
 
@@ -65,7 +65,7 @@ nav_order: 4
 **Role:** Principal Investigator
 **Period:** 2025
 
-[**Project website:**](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2025&typ=N&pageSize=200)
+[**Project website**](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2025&typ=N&pageSize=200)
 
 **Related outputs:**
 
@@ -81,7 +81,7 @@ nav_order: 4
 **Role:** Principal Investigator
 **Period:** 2024
 
-[**Project website:**](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2024&typ=N&pageSize=200)
+[**Project website**](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2024&typ=N&pageSize=200)
 
 **Related outputs:**
 
@@ -97,7 +97,7 @@ nav_order: 4
 **Role:** Principal Investigator
 **Period:** 2023
 
-[**Project website:** ](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2023&typ=N&pageSize=200)
+[**Project website** ](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2023&typ=N&pageSize=200)
 
 **Related outputs:**
 
@@ -115,7 +115,7 @@ nav_order: 4
 **Role:** Research Assistant
 **Period:** 2022–2025
 
-[**Project website:**](https://science.fsv.cuni.cz/en/project/mutual-interaction-of-the-self-perspective-and-the-other-perspective-in-political-decision-making-a-perspective-of-quantum-social-science/)
+[**Project website**](https://science.fsv.cuni.cz/en/project/mutual-interaction-of-the-self-perspective-and-the-other-perspective-in-political-decision-making-a-perspective-of-quantum-social-science/)
 
 **Related outputs:**
 
@@ -130,7 +130,7 @@ nav_order: 4
 **Role:** Research Assistant
 **Period:** 2022
 
-[**Project website:**](https://jog.tk.elte.hu/en/crises-and-democracy)
+[**Project website**](https://jog.tk.elte.hu/en/crises-and-democracy)
 
 **Related outputs:**
 
