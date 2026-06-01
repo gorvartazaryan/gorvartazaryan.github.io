@@ -8,7 +8,7 @@ nav_order: 4
 
 ## Media Coverage
 
-## Pre-Eeectoral coalitions and the "STAČILO!" case in 2025 general elections
+## Pre-Electoral coalitions and the "STAČILO!" case in 2025 general elections
 
 [1] **[Echo24 – Constitutional lawyers on electoral coalitions and STAČILO!](https://www.echo24.cz/a/HFQ3j/ustava-jan-kysela-pravo-pravnik-soud-zaloba-stacilo-spd-nekoalice-skryte-koalice-pseudokoalice-volby-snemovny)**
 Mentioned as an expert commentator on electoral coalitions and constitutional aspects of the 2025 parliamentary elections.
@@ -57,50 +57,3 @@ Interview with Charles University Faculty of Law (Czech version).
 [5] **[Video Interview: Studying at Oxford](https://www.youtube.com/watch?v=UV30hDI9vvA)**  
 Video interview for Charles University Faculty of Law discussing studies at the University of Oxford.
 
----
-
-## Conference Presentations
-
-[11] **Constitutional Court Clerks and Judicial Decision-Making at the Czech Constitutional Court**
-European Society for Empirical Legal Studies (ESELS) Annual Conference, Slovenia
-2026
-
-[10] **How and why evaluate the quality of constitutional legal research?**
-IMPURE Conference, Czech Republic
-2026
-
-[9] **The Role of Dissenting Opinions at the European Court of Human Rights**
-Centre for Socio-Legal Studies (CSLS) Early Career Research Presentations, University of Oxford, United Kingdom
-2026
-
-[8] **The Role of Dissenting Opinions at the European Court of Human Rights**
-Socio-Legal Studies Association (SLSA) Annual Conference, United Kingdom
-2026
-
-[7] **The Role of Dissenting Opinions at the European Court of Human Rights**
-Empirical Perspectives on European Law (ESELS), Sweden
-2026
-
-[6] **Presentation at SKÚTR Conference**
-Charles University Faculty of Law, Czech Republic
-2025
-
-[5] **Qualitative Analysis of Dissenting Behaviour at the Czech Constitutional Court**
-VSPEE Conference, Charles University Faculty of Law, Czech Republic
-2025
-
-[4] **Empirical Analysis of Dissenting Opinions at the Czech Constitutional Court**
-VSPEE Conference, Charles University Faculty of Law, Czech Republic
-2025
-
-[3] **Article 64 of the Czech Constitution and Presidential Powers**
-Scientific Seminar of Prof. Jan Wintr, Charles University Faculty of Law, Czech Republic
-2024
-
-[2] **Qualitative Analysis of Dissenting Behaviour at the Czech Constitutional Court**
-Debaty mladých právníků, Palacký University Olomouc, Czech Republic
-2024
-
-[1] **Czech Presidents in Trouble: How Successful Can the System Be Against Presidential Misbehaviour?**
-Debaty mladých právníků, Palacký University Olomouc, Czech Republic
-2023
