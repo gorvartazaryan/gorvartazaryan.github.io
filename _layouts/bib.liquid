@@ -36,18 +36,4 @@
       , {{ entry.year }}
     {% endif %}
   </div>
-
-  <div class="bib-links">
-    {% if entry.url %}
-      <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">(link)</a>
-    {% endif %}
-
-    {% if entry.doi %}
-      <a href="https://doi.org/{{ entry.doi }}" target="_blank" rel="noopener noreferrer">(DOI)</a>
-    {% endif %}
-
-    {% if entry.pdf %}
-      <a href="{{ entry.pdf }}" target="_blank" rel="noopener noreferrer">(PDF)</a>
-    {% endif %}
-  </div>
 </div>
