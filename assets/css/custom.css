@@ -1,11 +1,9 @@
-a {
-  color: #4da6ff;
-}
-
+a,
 a:visited {
-  color: #4da6ff;
+  color: #4da6ff !important;
 }
 
-a:hover {
-  color: #80c1ff;
+a:hover,
+a:focus {
+  color: #80c1ff !important;
 }
