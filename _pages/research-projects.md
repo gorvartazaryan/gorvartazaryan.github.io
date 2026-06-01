@@ -9,18 +9,20 @@ nav_order: 4
 
 ## ongoing projects
 
-### ACEDIA: *Apathy in Central European Democracies: How to Improve Awareness?*
+---
+
+#### ACEDIA: *Apathy in Central European Democracies: How to Improve Awareness?*
 
 **Funding body:** MSCA Fellowships CZ
 **Project number:** CZ.02.01.01/00/22_010/0008115
 **Role:** Research Assistant
 **Period:** 2025–2027
 
-**Project website:** [link](https://www.prf.cuni.cz/node/13024)
+[**Project website:** ](https://www.prf.cuni.cz/node/13024)
 
 **Related outputs:**
 
-* [publication]()
+* work in progress
 
 ---
 
@@ -31,7 +33,7 @@ nav_order: 4
 **Role:** Research Assistant
 **Period:** 2025–2027
 
-**Project website:** [link](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2025&typ=N&pageSize=200)
+[**Project website:** ](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2025&typ=N&pageSize=200)
 
 **Related outputs:**
 
@@ -46,7 +48,7 @@ nav_order: 4
 **Role:** Research Assistant
 **Period:** 2025
 
-**Project website:** [link](https://www.prf.cuni.cz/aktuality/dalsi-uspechy-v-soutezi-ga-cr)
+[**Project website:**](https://www.prf.cuni.cz/aktuality/dalsi-uspechy-v-soutezi-ga-cr)
 
 **Related outputs:**
 
@@ -63,7 +65,7 @@ nav_order: 4
 **Role:** Principal Investigator
 **Period:** 2025
 
-**Project website:** [link](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2025&typ=N&pageSize=200)
+[**Project website:**](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2025&typ=N&pageSize=200)
 
 **Related outputs:**
 
@@ -79,7 +81,7 @@ nav_order: 4
 **Role:** Principal Investigator
 **Period:** 2024
 
-**Project website:** [link](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2024&typ=N&pageSize=200)
+[**Project website:**](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2024&typ=N&pageSize=200)
 
 **Related outputs:**
 
@@ -95,7 +97,7 @@ nav_order: 4
 **Role:** Principal Investigator
 **Period:** 2023
 
-**Project website:** [link](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2023&typ=N&pageSize=200)
+[**Project website:** ](https://tarantula.ruk.cuni.cz/TEST-1103.html?controller=GaukPublic&action=listing&?dgref=includeurl&web=TEST&id=1103&rok=2023&typ=N&pageSize=200)
 
 **Related outputs:**
 
@@ -113,7 +115,7 @@ nav_order: 4
 **Role:** Research Assistant
 **Period:** 2022–2025
 
-**Project website:** [link](https://science.fsv.cuni.cz/en/project/mutual-interaction-of-the-self-perspective-and-the-other-perspective-in-political-decision-making-a-perspective-of-quantum-social-science/)
+[**Project website:**](https://science.fsv.cuni.cz/en/project/mutual-interaction-of-the-self-perspective-and-the-other-perspective-in-political-decision-making-a-perspective-of-quantum-social-science/)
 
 **Related outputs:**
 
@@ -128,8 +130,9 @@ nav_order: 4
 **Role:** Research Assistant
 **Period:** 2022
 
-**Project website:** [link](https://jog.tk.elte.hu/en/crises-and-democracy)
+[**Project website:**](https://jog.tk.elte.hu/en/crises-and-democracy)
 
 **Related outputs:**
 
 * [Report from the Roundtable on the Impact of COVID-19 on Czech Elections and Electoral Law](https://jog.tk.elte.hu/en/blog/2022/08/report-roundtable-covid-19-czech-elections-electoral-law)
+* [Upcoming presidential elections in Czech Republic](https://jog.tk.elte.hu/en/upcoming-presidential-elections-in-czech-republic)
