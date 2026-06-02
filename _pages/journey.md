@@ -38,7 +38,7 @@ It was doc. Kubátová who first suggested that I should publish my bachelor's t
 
 After MANY sleepless night spend in NTK (Czech National Library of Technology) I completed degrees in both disciplines and earned the sacred titles of **JUDr.** and **PhDr.** There are no direct equivalents to these qualifications in most other countries. Essentially, they are meaningless - just a basic equivalent of masters degree. However, in Czechia they retain remarkable cultural significance and people will happily address you as "Doctor" even though you do not hold a doctorate.
 
-![Chess](/assets/img/ntk.jpg){: style="width: 35%; float: right; margin-right: 20px;" }
+![One Gorometer](/assets/img/ntk.jpg){: style="width: 35%; float: right; margin-right: 20px;" }
 
 ---
 
@@ -48,7 +48,7 @@ After completing both degrees, I naturally continued to a PhD at the Constitutio
 
 After a year of hard work, I was offered the internal position by the department. At the same time, I was admitted to the University of Oxford to pursue an **MPhil in Socio-Legal Research**. I am currently combining both paths and am now in the second year of my doctoral studies. 
 
-![Oxford](/assets/img/oxford.jpg){: style="width: 40%;" }
+![Me and Hans Kelsen](/assets/img/oxford.jpg){: style="width: 40%;" }
 
 ---
 
