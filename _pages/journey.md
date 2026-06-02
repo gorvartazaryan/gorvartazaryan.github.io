@@ -36,7 +36,7 @@ What initially seemed like a temporary detour gradually became a professional vo
 
 It was doc. Kubátová who first suggested that I should publish my bachelor's thesis as a journal article. Over the following years, I began publishing regularly, secured three consecutive research grants from the Charles University Grant Agency (with an acceptance rate of roughly 30%), and gradually became more involved in academic life. More information about these projects can be found in the **Research Projects** section of this website.
 
-Along the way, I completed degrees in both disciplines and earned the sacred titles of **JUDr.** and **PhDr.** There are no direct equivalents to these qualifications in most other countries. Essentially, they are relics of the Austro-Hungarian era, yet they retain remarkable cultural significance in the Czech Republic-people will happily address you as "Doctor" even though you do not technically hold a doctorate.
+Along the way, I completed degrees in both disciplines and earned the sacred titles of **JUDr.** and **PhDr.** There are no direct equivalents to these qualifications in most other countries. Essentially, they are meaningless - just a basic equivalent of masters degree. However, in Czechia they retain remarkable cultural significance and people will happily address you as "Doctor" even though you do not hold a doctorate.
 
 ---
 
