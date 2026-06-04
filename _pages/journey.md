@@ -8,7 +8,7 @@ nav_order: 6
 
 ## Highschool 😎
 
-![Fridays fot Future - First demo in Prague](/assets/img/fff.jpeg){: style="width: 40%; float: right; margin-left: 20px;" }
+![Fridays fot Future - First demo in Prague]<img src="{{ site.baseurl }}/assets/img/fff.jpeg" alt="Fridays for Future - First demo in Prague" style="width: 40%; float: right; margin-left: 20px;">
 
 My academic journey began at [Gymnázium Jana Keplera](https://gjk.cz), which remains one of the most formative and enjoyable periods of my life. During my high-school years, I became interested in both the social sciences and humantities. I didn't study much and spend most of my time with the legend - [David Vávra](https://www.researchgate.net/profile/David-Vavra-4). Unfortunately, he had to leave for our final year and I locked in... That year, I completed a **SOČ (Student thesis)**, which placed [3rd in regional and 8th in the national competition](https://gjk.cz/tag/soc/). Together with friends, I co-founded [Mladá Politika](https://www.facebook.com/mladapolitikaCZ/) and organized many [debates in Václav Havels' library](https://www.vaclavhavel.cz/cs/index/kalendar/1559/jak-vyhrat-volby-aneb-sila-politickeho-marketingu), recorded a [podcast series](https://ceskepodcasty.cz/podcast/podcast-mlade-politiky) with young assistants of MPs and even filmed a [beerpong game](https://www.facebook.com/mladapolitikaCZ/videos/politick%C3%BD-beerpong-trailer/220676015724687/) with an opponents and supporters of adopting the euro in the Czech Republic. I also became involved in [Fridays for Future Czech Republic](https://www.fridaysforfuture.cz/) and organized multiple demonstrations in Prague. This experience thought me a lot about politics, media and how public opinion shifts...
 
