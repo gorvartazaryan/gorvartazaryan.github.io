@@ -54,6 +54,6 @@ Interview with Charles University Faculty of Law about studying at Oxford and pu
 [4] **[Nejtěžší bylo zařídit financování, říká o studiu na Oxfordu doktorand Gor Vartazaryan](https://www.prf.cuni.cz/aktuality/nejtezsi-bylo-zaridit-finacovani-rika-o-studiu-na-oxfordu-doktorand-gor-vartazaryan)**  
 Interview with Charles University Faculty of Law (Czech version).
 
-[5] **[Video Interview: Studying at Oxford](https://www.youtube.com/watch?v=UV30hDI9vvA)**  
-Video interview for Charles University Faculty of Law discussing studies at the University of Oxford.
+[5] **[PF UK: O studiu na Oxfordu s Gorem Vartazaryanem](https://www.youtube.com/watch?v=UV30hDI9vvA)**  
+Video interview for Charles University Faculty of Law discussing studies at the University of Oxford (Czech version).
 
