@@ -36,7 +36,7 @@ nav_order: 4
 
 ---
 
-### 2025
+# 2025
 
 ## Presentation at SKÚTR Conference
 
@@ -52,7 +52,7 @@ nav_order: 4
 
 ---
 
-### 2024
+# 2024
 
 ## Article 64 of the Czech Constitution and Presidential Powers
 
@@ -66,7 +66,7 @@ nav_order: 4
 
 ---
 
-### 2023
+# 2023
 
 ## Czech Presidents in Trouble: How Successful Can the System Be Against Presidential Misbehaviour?
 
