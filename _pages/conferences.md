@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-### 2026
+# 2026
 
 ## Constitutional Court Clerks and Judicial Decision-Making at the Czech Constitutional Court
 
