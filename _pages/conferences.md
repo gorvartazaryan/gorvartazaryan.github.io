@@ -12,6 +12,8 @@ nav_order: 4
 
 *European Society for Empirical Legal Studies (ESELS) Annual Conference, Slovenia*
 
+[Conference website](https://esels.eu/annual-conference-ljubljana-2026/)
+
 ## How and Why Evaluate the Quality of Constitutional Legal Research?
 
 *IMPURE Conference, Czech Republic*
@@ -46,9 +48,13 @@ nav_order: 4
 
 *VSPEE Conference, Charles University Faculty of Law, Czech Republic*
 
+[VSPEE website](https://www.prf.cuni.cz/en/department-economics-and-empirical-legal-studies/vspee-research-seminars-law-economics-and-empirics)
+
 ## Empirical Analysis of Dissenting Opinions at the Czech Constitutional Court
 
 *VSPEE Conference, Charles University Faculty of Law, Czech Republic*
+
+[VSPEE website](https://www.prf.cuni.cz/en/department-economics-and-empirical-legal-studies/vspee-research-seminars-law-economics-and-empirics)
 
 ---
 
@@ -72,3 +78,4 @@ nav_order: 4
 
 *Debaty mladých právníků, Palacký University Olomouc, Czech Republic*
 
+[Conference program](/assets/pdf/fsv_2023.pdf)
