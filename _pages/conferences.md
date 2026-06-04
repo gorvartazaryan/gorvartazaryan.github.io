@@ -78,4 +78,4 @@ nav_order: 4
 
 *Debaty mladých právníků, Palacký University Olomouc, Czech Republic*
 
-[Conference program](/assets/pdf/fsv_2023.pdf)
+[Conference program](/assets/fsv_2023.pdf)
