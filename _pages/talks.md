@@ -50,7 +50,7 @@ Mentioned as an expert on electoral law.
 
 ---
 
-### Studying at oxford
+### Studying at Oxford University
 
 **1. [Jak vypadá na Oxfordu výzkumný MPhil v sociálně-právním oboru?](https://czexpats.org/clanek/gor-vartazaryan-jak-vypada-na-oxfordu-vyzkumny-mphil-v-socialne-pravnim-oboru/)**
 *Czexpats (Czech version)*
