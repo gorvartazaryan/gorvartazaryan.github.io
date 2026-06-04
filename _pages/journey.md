@@ -1,4 +1,4 @@
-still doesnt working, i think that the path is fine but the posiiton maybe? idk---
+---
 layout: page
 title: my (academic) journey
 permalink: /journey/
