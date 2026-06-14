@@ -30,7 +30,7 @@ These days, I play mostly online on lichess.org, but I still occasionally make t
 
 ## Then Everything Went Downhill ⛷️
 
-![One Gorometer](/assets/img/ntk.jpg){: style="width: 35%; float: right; margin-right: 20px;" }
+![One Gorometer](/assets/img/ntk.jpg){: style="width: 35%; float: left; margin-right: 20px;" }
 
 At some point, I had to figure out what to do with my life, as becoming a chess grandmaster was clearly not going to happen. I therefore made the questionable decision to study [law](https://www.prf.cuni.cz/) and [political science](https://ips.fsv.cuni.cz/en) at Charles University.
 
@@ -44,7 +44,7 @@ After MANY sleepless nights spend in NTK (Czech National Library of Technology) 
 
 ## Academia 🎓
 
-![Me and Hans Kelsen](/assets/img/oxford.jpg){: style="width: 40%;" }
+![Me and Hans Kelsen](/assets/img/oxford.jpg){: style="width: 35%; float: left; margin-right: 20px;" }
 
 After completing both degrees, I naturally continued to a PhD at the Constitutional Law Department of Charles University. Although I was not initially selected for the department's internal doctoral position—which provides PhD students with a monthly stipend—I decided to persevere and continue giving it my all.
 
