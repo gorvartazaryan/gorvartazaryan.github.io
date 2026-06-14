@@ -8,11 +8,11 @@ nav_order: 4
 
 # 2026
 
-### Constitutional Court Clerks and Judicial Decision-Making at the Czech Constitutional Court
+### iCourts and MOBILE PhD Summer School
 
-*European Society for Empirical Legal Studies (ESELS) Annual Conference, Slovenia*
+*University of Copenhagen, Law School, Denmark*
 
-[Conference website](https://esels.eu/annual-conference-ljubljana-2026/)
+[Summer School website](https://jura.ku.dk/icourts/education/summer-school/)
 
 ### How and Why Evaluate the Quality of Constitutional Legal Research?
 
