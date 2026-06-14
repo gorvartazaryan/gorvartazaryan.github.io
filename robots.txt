@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gorgruso.github.io/gorvartazaryan.github.io//sitemap.xml
+Sitemap: https://gorvartazaryan.github.io/gorvartazaryan.github.io//sitemap.xml
