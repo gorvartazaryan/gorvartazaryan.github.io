@@ -6,6 +6,10 @@ nav: true
 nav_order: 4
 ---
 
+### Separate opinions at the European Court of the Human Rights
+
+**1. [Co motivuje soudce ESLP psát odlišná stanoviska a jak probíhá akademický výzkum na Oxfordu? 🏛️🎓]([https://www.echo24.cz/a/HFQ3j/ustava-jan-kysela-pravo-pravnik-soud-zaloba-stacilo-spd-nekoalice-skryte-koalice-pseudokoalice-volby-snemovny](https://www.linkedin.com/posts/noc-fakulty_co-motivuje-soudce-eslp-ps%C3%A1t-odli%C5%A1n%C3%A1-stanoviska-activity-7519448727175098368-l7c9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD_pb30BzgOqDPjtEdkdRP5QpgYpcbX4pLQ))** 
+
 ### Pre-electoral coalitions cases in the 2025 Czech general election
 
 **1. [Ústavní právníci o STAČILO!, SPD a skrytých koalicích](https://www.echo24.cz/a/HFQ3j/ustava-jan-kysela-pravo-pravnik-soud-zaloba-stacilo-spd-nekoalice-skryte-koalice-pseudokoalice-volby-snemovny)**
